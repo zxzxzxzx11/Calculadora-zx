@@ -1,2 +1,2 @@
-# Calculadora-zx
+# manda 
 A scientific calculator 
